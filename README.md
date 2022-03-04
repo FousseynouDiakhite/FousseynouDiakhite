@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fousseynou Diakhite 
 - 👀 I’m interested in Web dev and IA 
-- 🌱 I’m currently learning web dev and IA 
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fousseynoudiakhite565@gmail.com
 
